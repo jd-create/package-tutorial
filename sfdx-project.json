@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "package",
+            "default": true,
+            "package": "package",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "name": "package-tutorial",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "54.0",
+    "packageAliases": {
+        "package": "0Ho7Q000000CaXKSA0",
+        "package@0.1.0-1": "04t7Q000000l763QAA"
+    }
+}
